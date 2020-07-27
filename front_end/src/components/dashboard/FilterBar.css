@@ -1,0 +1,75 @@
+.filter-section {
+    width: 22%;
+    padding: 5px 0px 5px 30px;
+}
+
+.sort-box {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #ddd;
+}
+
+.filter-section input[type="range"] , input[type="text"]
+{
+    width: 90%;
+}
+
+.filter-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    padding:3px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.filter-box {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #eee;
+}
+
+.filter-range {
+    font-style: italic;
+    font-size: 13px;
+}
+
+.filter-range-value {
+    font-size:12px;
+    color: rgb(95, 50, 65);
+    font-family: fantasy,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+
+@media only screen and (max-width: 640px) {
+    .filter-section {
+        width: 100%;
+        padding: 0 0 0 3px;
+    }
+    .sort-box {
+        width: calc(100vw - 60px);
+        background-color: #aaa;
+    }
+    .filter-box {
+        width: calc(100vw - 60px);
+    }
+    .filter-title {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        padding:0;
+        color: rgba(0, 0, 0, 0.7);
+    }
+    .gray1 {
+        background-color: #bbb;
+    }
+    .gray2 {
+        background-color: #ccc;
+    }
+    .gray3 {
+        background-color: #ddd;
+    }
+    .filter-section input[type="range"]
+    {
+        width: 100%;
+        font-size: 10px;
+    }
+}

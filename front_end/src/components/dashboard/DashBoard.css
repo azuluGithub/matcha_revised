@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.sidebar {
+    background: rgb(228, 148, 160);
+    margin-top: 60px;
+    position: fixed;
+    padding-top: 30px;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    transition: 0.5s;
+    transition-property: left;
+    z-index: 1;
+}
+
+.sidebar .profile_image {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+    background: #ccc;
+}
+
+.sidebar h4 {
+    color: rgb(60, 61, 65);
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+.sidebar-title {
+    font-size: 16px;
+    color: rgb(95, 50, 65);
+    font-weight: 600;
+}
+
+.sidebar .sidebar_section {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: rgb(218, 137, 164);
+    padding: 20px 0 20px 20px;
+    box-sizing: border-box;
+    transition: 0.5s;
+    transition-property: background;
+    box-shadow: 0 -5px 5px -5px dimgray;
+    box-shadow: 0 5px 5px -5px dimgray;
+}
+
+.sidebar-tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.tagz_ {
+    color: palevioletred;
+    background-color: #fff;
+    font-size: 13px;
+    margin-right: 8px;
+    border-radius: 5px;
+    border: 1px solid lightpink;
+}
+
+.sidebar .sidebar_section  input[type="text"]
+{
+    height: 30px;
+    padding: 4px;
+    font-size: 14px;
+    margin-bottom: 3px;
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+
+
+li #sidebar_btn {
+    color: #fff;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+    transition-property: background;
+}
+
+li #sidebar_btn:hover {
+    color: rgb(95, 50, 65);
+}
+
+#check:checked ~ .sidebar {
+    left: -190px;
+}
+
+#check:checked ~ .sidebar .sidebar_section {
+    display: none;
+}
+
+.content {
+    margin-left: 250px;
+    transition: 0.5s;
+    padding: 76px 0px 20px 0px;
+}
+
+#check:checked ~ .content {
+    margin-left: 60px;
+}
+
+#check {
+    display: none;
+}
