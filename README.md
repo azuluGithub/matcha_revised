@@ -144,7 +144,7 @@
       <strong>express-form-data:</strong><em> sends form to the server</em>
     </li>
     <li>
-      <strong>knex:</strong><em> allows database connect to store or fetch data </em>
+      <strong>knex:</strong><em> connects to database to store or fetch data </em>
     </li>
     <li>
       <strong>nodemon:</strong><em> listens to file changes and restarts server during development if they are any changes made to the file</em>
