@@ -89,11 +89,12 @@
 </p>
 <hr />
 
-<h2> Front-End NPM Packages </h2> _for package versions: npm install <package name>_
+<h2>Front-End NPM Packages</h2>
+<em>for package versions: npm install <package name></em>
 <p>
   <ul>
     <li>
-      <em>leaflet AND react-leaflet:</em> map display
+      <strong>leaflet AND react-leaflet:</strong> map display
     </li>
     <li>
       <em>moment:</em> time conversion
