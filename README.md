@@ -1,10 +1,22 @@
 # Matcha
-Is a _WethinkCode__ project
+<p>
+  <em>
+    Is a *WethinkCode_* project.
+   </em>
+</p>
+
+<hr />
 
 ## Description
-This project is about creating a dating website.
-You will need to create an app that allows two potential lovers to meet, from the registration to the final encounter.
-A user will then be able to register, connect, fill his or her profile, search and look into the profile of other users, like them, chat with those that "liked" back.
+<p>
+  <em>
+    This project is about creating a dating website.
+    You will need to create an app that allows two potential lovers to meet, from the registration to the final encounter.
+    A user will then be able to register, connect, fill his or her profile, search and look into the profile of other users, like them, chat with those that "liked" back.
+  </em>
+</p>
+
+<hr />
 
 ## Features
 <p>
@@ -13,6 +25,5 @@ A user will then be able to register, connect, fill his or her profile, search a
     <li><em>login</em></li>
     <li><em>forgot</em></li>
   </ul>
-  
 </p>
 <hr />
