@@ -1,5 +1,5 @@
 # Matcha
-Is a **_WeThinkCode__** project.
+<em>Is a</em> **_WeThinkCode__** <em>project.</em>
 
 <hr />
 
