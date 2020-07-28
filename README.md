@@ -94,7 +94,7 @@
 <hr />
 
 <h2>Front-End NPM Packages</h2>
-<em>for package versions: npm install <package name></em>
+<em>for package versions: npm install package_name</em>
 <p>
   <ul>
     <li>
