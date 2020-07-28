@@ -18,23 +18,26 @@ Is a **_WeThinkCode__** project.
 <p>
   <ul>
     <li>
-      <em>Inscription and connexion</em>
+      <em>Registration and Signing-in</em>
     </li>
     <li>
       <em>User profile</em>
     </li>
     <li>
-      <em>User experience</em>
+      <em>Browsing</em>
     </li>
     <li>
-      <em>Research and filter users</em>
+      <em>Research</em>
     </li>
     <li>
-      <em>Real time chat</em>
+      <em>Profile of other users</em>
     </li>
     <li>
-      <em>Real time notification system</em>
-    </li> 
+      <em>Chat</em>
+    </li>
+    <li>
+      <em>Notifications</em>
+    </li>
   </ul>
 </p>
 <hr />
