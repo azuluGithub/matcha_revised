@@ -17,9 +17,24 @@ Is a **_WeThinkCode__** project.
 <h2> Features </h2>
 <p>
   <ul>
-    <li><em>register</em></li>
-    <li><em>login</em></li>
-    <li><em>forgot</em></li>
+    <li>
+      <em>Inscription and connexion</em>
+    </li>
+    <li>
+      <em>User profile</em>
+    </li>
+    <li>
+      <em>User experience</em>
+    </li>
+    <li>
+      <em>Research and filter users</em>
+    </li>
+    <li>
+      <em>Real time chat</em>
+    </li>
+    <li>
+      <em>Real time notification system</em>
+    </li> 
   </ul>
 </p>
 <hr />
