@@ -97,19 +97,62 @@
       <strong>leaflet && react-leaflet:</strong> map display
     </li>
     <li>
-      <bold>moment:</bold> time conversion
+      <strong>moment:</strong> time conversion
     </li>
     <li>
-      <em>react-redux:</em> connecting redux to react app
+      <strong>react-redux:</strong> connecting redux to react app
     </li>
     <li>
-      <em>react-router-dom:</em> routes an app e.g "/dashboad"
+      <strong>react-router-dom:</strong> routes an app e.g "/dashboad"
     </li>
     <li>
-      <em>react-scroll-to-bottom:</em> works as a scrollbar
+      <strong>react-scroll-to-bottom:</strong> works as a scrollbar
     </li>
     <li>
-      <em>redux:</em> global state of an application
+      <strong>redux:</strong> global state of an application
+    </li>
+  </ul>
+</p>
+<hr />
+
+<h2>Back-End NPM Packages</h2>
+<p>
+  <ul>
+    <li>
+      <strong>bcrypt-nodejs:</strong> password hashing
+    </li>
+    <li>
+      <strong>body-parser:</strong> extract the entire body portion of an incoming request stream and exposes it on req.body.
+    </li>
+    <li>
+      <strong>cors:</strong> Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.
+    </li>
+    <li>
+      <strong>cloudinary:</strong> cloud database that store images
+    </li>
+    <li>
+      <strong>dotenv:</strong> hides configurations and api keys from being shared on github
+    </li>
+    <li>
+      <strong>express:</strong> for easy back-end routing
+    </li>
+    <li>
+      <strong>express-form-data:</strong> sends form to the server
+    </li>
+    <li>
+      <strong>nodemon:</strong> restart server during development
+    </li>
+    <li>
+      <strong>nodemailer:</strong> sending email to the user after registration or to request password reset
+    </li>
+    <li>
+      <strong>react-router-dom:</strong> routes an app e.g "/dashboad"
+    </li>
+    <li>
+      <strong>pg:</strong> postgres database stores information of all users
+    </li>
+    <li>
+      <strong>randomstring:</strong> for creating random strings e.g tokens used during email verification process
     </li>
   </ul>
 </p>
