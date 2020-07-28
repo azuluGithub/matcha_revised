@@ -1,7 +1,7 @@
 <h1> Matcha </h1>
 <p>
   <em>
-    Is a *WethinkCode_* project.
+    Is a **WethinkCode_** project.
    </em>
 </p>
 
