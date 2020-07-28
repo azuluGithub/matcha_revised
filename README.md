@@ -1,4 +1,4 @@
-# Matcha
+<h1> Matcha </h1>
 <p>
   <em>
     Is a *WethinkCode_* project.
@@ -7,7 +7,7 @@
 
 <hr />
 
-## Description
+<h2> Description </h2>
 <p>
   <em>
     This project is about creating a dating website.
@@ -18,7 +18,7 @@
 
 <hr />
 
-## Features
+<h2> Features </h2>
 <p>
   <ul>
     <li><em>register</em></li>
