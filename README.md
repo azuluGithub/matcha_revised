@@ -138,7 +138,7 @@
       <strong>dotenv:</strong><em> used with .gitignore to hide configurations and api keys from being shared on github</em>
     </li>
     <li>
-      <strong>express:</strong><em> for creating a server and easy back-end routing</em>
+      <strong>express:</strong><em> for creating a server and back-end routing</em>
     </li>
     <li>
       <strong>express-form-data:</strong><em> sends form to the server</em>
