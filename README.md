@@ -1,7 +1,7 @@
 <h1> Matcha </h1>
 <p>
   <em>Is a</em> 
-    <strong>_WeThinkCode__** </strong>
+    <strong> WeThinkCode_ </strong>
   <em>project.</em>
 </p>
 <hr />
