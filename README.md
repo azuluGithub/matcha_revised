@@ -42,7 +42,7 @@
 
 <h2> Stack / Languages</h2>
 <p>
-  <h3> Front End: </h3>
+  <h3> Front-End: </h3>
   <ul>
     <li>
       <em>JavaScript (ES6+)</em>
@@ -74,7 +74,7 @@
     </li>
   </ul>
   
-  <h3> Back End: </h3>
+  <h3> Back-End: </h3>
   <ul>
     <li>
       <em>Postgres SQL database</em>
@@ -84,6 +84,31 @@
     </li>
     <li>
       <em>Cloudinary</em>
+    </li>
+  </ul>
+</p>
+<hr />
+
+<h2> Front-End NPM Packages </h2> _for package versions: npm install <package name>_
+<p>
+  <ul>
+    <li>
+      <em>leaflet AND react-leaflet:</em> map display
+    </li>
+    <li>
+      <em>moment:</em> time conversion
+    </li>
+    <li>
+      <em>react-redux:</em> connecting redux to react app
+    </li>
+    <li>
+      <em>react-router-dom:</em> routes an app e.g "/dashboad"
+    </li>
+    <li>
+      <em>react-scroll-to-bottom:</em> works as a scrollbar
+    </li>
+    <li>
+      <em>redux:</em> global state of an application
     </li>
   </ul>
 </p>
