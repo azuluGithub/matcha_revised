@@ -1,6 +1,5 @@
 # Matcha
 <em>Is a</em> **_WeThinkCode__** <em>project.</em>
-
 <hr />
 
 <h2> Description </h2>
@@ -11,7 +10,6 @@
     A user is able to register, connect, fill his or her profile, search and look into the profile of other users, like them, chat with those that "liked" back.
   </em>
 </p>
-
 <hr />
 
 <h2> Features </h2>
@@ -37,6 +35,55 @@
     </li>
     <li>
       <em>Notifications</em>
+    </li>
+  </ul>
+</p>
+<hr />
+
+<h2> Stack / Languages</h2>
+<p>
+  <h3> Front End: </h3>
+  <ul>
+    <li>
+      <em>JavaScript (ES6+)</em>
+    </li>
+    <li>
+      <em>React JS</em>
+    </li>
+    <li>
+      <em>Redux</em>
+    </li>
+    <li>
+      <em>HTML</em>
+    </li>
+    <li>
+      <em>CSS</em>
+    </li>
+    <li>
+      <em>Bootstrap</em>
+    </li>
+  </ul>
+  
+  <h3> Server: </h3>
+  <ul>
+    <li>
+      <em>Node JS</em>
+    </li>
+    <li>
+      <em>Express JS</em>
+    </li>
+  </ul>
+  
+  <h3> Back End: </h3>
+  <ul>
+    <li>
+      <em>Postgres SQL database</em>
+    </li>
+    <li>
+      <em>Knex JS</em>
+    </li>
+    <li>
+      <em>Cloudinary</em>
     </li>
   </ul>
 </p>
