@@ -1,5 +1,5 @@
-<h1> Matcha </h1>
-   Is a **_WethinkCode__** project
+# Matcha
+Is a **_WeThinkCode__** project.
 
 <hr />
 
