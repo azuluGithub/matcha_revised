@@ -8,6 +8,11 @@ A user will then be able to register, connect, fill his or her profile, search a
 
 ## Features
 <p>
-  <em>register</em>
+  <ul>
+    <li><em>register</em></li>
+    <li><em>login</em></li>
+    <li><em>forgot</em></li>
+  </ul>
+  
 </p>
 <hr />
