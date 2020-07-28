@@ -1,5 +1,9 @@
 <h1> Matcha </h1>
-<em>Is a</em> **_WeThinkCode__** <em>project.</em>
+<p>
+  <em>Is a</em> 
+    <strong>_WeThinkCode__** </strong>
+  <em>project.</em>
+</p>
 <hr />
 
 <h2> Description </h2>
