@@ -8,4 +8,4 @@ A user will then be able to register, connect, fill his or her profile, search a
 
 ## Features
 . register
-. login
+<hr />
