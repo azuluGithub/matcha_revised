@@ -1,4 +1,4 @@
-# Matcha
+<h1> Matcha </h1>
 <em>Is a</em> **_WeThinkCode__** <em>project.</em>
 <hr />
 
@@ -94,10 +94,10 @@
 <p>
   <ul>
     <li>
-      <strong>leaflet AND react-leaflet:</strong> map display
+      <strong>leaflet && react-leaflet:</strong> map display
     </li>
     <li>
-      <em>moment:</em> time conversion
+      <bold>moment:</bold> time conversion
     </li>
     <li>
       <em>react-redux:</em> connecting redux to react app
