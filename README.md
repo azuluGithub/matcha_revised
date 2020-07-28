@@ -1,5 +1,5 @@
 # Matcha
-I a _WethinkCode__ project
+Is a _WethinkCode__ project
 
 ## Description
 This project is about creating a dating website.
