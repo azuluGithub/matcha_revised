@@ -135,7 +135,7 @@
       <strong>cloudinary:</strong><em> cloud database that store images</em>
     </li>
     <li>
-      <strong>dotenv:</strong><em> used with .gitignore to configurations and api keys from being shared on github</em>
+      <strong>dotenv:</strong><em> used with .gitignore to hide configurations and api keys from being shared on github</em>
     </li>
     <li>
       <strong>express:</strong><em> for creating a server and easy back-end routing</em>
