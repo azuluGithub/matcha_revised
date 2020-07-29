@@ -402,7 +402,7 @@
 
 <h3> Clone Project: </h3>
 
-<em>To clone:</em>[Go to matcha project!](https://github.com/azuluGithub/matcha_revised)
+<em>To clone:</em> [Go to matcha project!](https://github.com/azuluGithub/matcha_revised)
 
 <h3> Starting Project: </h3>
 
@@ -418,6 +418,14 @@
         file at root of the directory which should contain api keys:
        </em>
     </li>
+    
+```diff
+- .env file below contains api keys for:
+- 1) cloudinary database
+- 2) postgres database
+- 3) gmail logins
+- (to use gmail to send : Enable less secure apps to access Gmail )
+```
     
 ```diff
 # CLOUD_NAME = '**************************'
