@@ -26,8 +26,8 @@
 <h2> Features </h2>
 
 ```diff
- - Registration and Signing-in
- - User profile
+ + Registration and Signing-in
+ # User profile
  - Browsing
  - Research
  - Profile of other users
