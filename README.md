@@ -339,14 +339,14 @@
     </li>
     
 ```diff
-# Git clone the matcha project
+# To use git commands e.g to clone the matcha project
 ```
 
 </ul>
 
 <em>Download nodejs here:</em> [node js!](https://nodejs.org/en/)<br />
 <em>Download postgres database here:</em> [postgres database!](https://www.postgresql.org/download/)<br />
-<em>Signup to cloudinary here:</em> [cloudinary database!](https://cloudinary.com/)
+<em>Signup to cloudinary here:</em> [cloudinary database!](https://cloudinary.com/)<br />
 <em>Download Git here:</em> [git!](https://git-scm.com/)
 
 <hr />
@@ -391,8 +391,37 @@
 <h2> Set Up Project </h2>
 
 <h3> Clone Project: </h3>
-
 [matcha project!](https://github.com/azuluGithub/matcha_revised)
+
+<h3> STARTING PROJECT: </h3>
+
+<h4> Navigate to back-end folder: </h4>
+
+<ul>
+   <li>
+      <em>
+        Create a 
+        <strong>
+          .env file 
+        </strong>
+        which should contain api keys:
+       </em>
+    </li>
+    
+```diff
+# CLOUD_NAME = 'dsaj6ikxp'
+# API_KEY = '187321199323491'
+# API_SECRET = '2ZJFbRb5D1-bCgoDLvLUj_pRgmo'
+
+# HOST = '127.0.0.1'
+# USER = 'postgres'
+# PASSWORD = 'rootadmin'
+# DATABASE = 'matcha'
+
+# GMAIL_USER = 'zuluarnold0@gmail.com'
+# GMAIL_PASS = '143_50F7w@r3'
+```
+</ul>
 
 <hr />
 
