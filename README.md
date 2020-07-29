@@ -298,22 +298,25 @@
 
 <hr />
 
-**Mobile Dashboard**
+<h4> Mobile Dashboard </h4>
+
 ![mdashboard image](/front_end/screenshots/dash_mob.JPG)
 
 <hr />
 
-**Profile**
+<h4> Profile </h4>
+
 ![profile image](/front_end/screenshots/prof_mob.JPG)
 
 <hr />
 
-**Chat**
+<h4> Chat </h4>
+
 ![chat image](/front_end/screenshots/chat_mob.JPG)
 
 <hr />
 
-<h3> Other Users </h3>
+<h4> Other Users </h4>
 
 ![user image](/front_end/screenshots/user_mob.JPG)
 
