@@ -45,7 +45,7 @@
 # React JS
 # Redux
 # HTML
-# >CSS
+# CSS
 # Bootstrap
 ```
 
@@ -68,11 +68,16 @@
 
 <h2>Front-End NPM Packages</h2>
 <em>for package versions: npm install package_name</em>
-<p>
-  <ul>
+
+ <ul>
     <li>
-      <strong>leaflet && react-leaflet:</strong><em> map display</em>
+      <strong>leaflet && react-leaflet:</strong>
     </li>
+    
+```diff
+# Postgres SQL database
+```
+    
     <li>
       <strong>moment:</strong><em> time conversion</em>
     </li>
@@ -89,7 +94,7 @@
       <strong>redux:</strong><em> global state of an application</em>
     </li>
   </ul>
-</p>
+  
 <hr />
 
 <h2>Back-End NPM Packages</h2>
