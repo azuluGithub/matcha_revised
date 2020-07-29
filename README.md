@@ -1,4 +1,4 @@
-<h1> Matcha </h1> :heart:
+<h1> Matcha </h1> :heart: :heart: :heart:
 
 ```diff
 # Is a WeThinkCode_ project.
@@ -13,9 +13,11 @@
  + The app allows two potential lovers to meet, from the registration to the final encounter.
  + A user is able to register, connect, fill his or her profile, search and look into the profile of other users, like them, chat with those that "liked" back.
 ```
+:couple_with_heart:
+
 <hr />
 
-<h2> Features </h2>
+<h2> Features </h2> :movie_camera: :camera:
 
 ```diff
 - Registration and Signing-in
@@ -28,7 +30,7 @@
 ```
 <hr />
 
-<h2> Stack / Languages</h2>
+<h2> Stack / Languages</h2> :speech_balloon:
 
 <h3> Front-End: </h3>
 
@@ -58,7 +60,7 @@
 
 <hr />
 
-<h2>Front-End NPM Packages</h2>
+<h2>Front-End NPM Packages</h2> :package:
 <em>for package versions: npm install package_name</em>
 
  <ul>
@@ -138,10 +140,9 @@
   
 <hr />
 
-<h2>Back-End NPM Packages</h2>
+<h2>Back-End NPM Packages</h2> :package:
 
   <ul>
-    
    <li>
       <em>
         <strong>
@@ -290,9 +291,9 @@
 
 <hr />
 
-<h2> RUNNING THE PROJECT </h2>
+<h2> RUNNING THE PROJECT </h2> :running:
 
-<h3> Requirements </h3>
+<h3> Requirements </h3> :warning:
 
 <ul>
    <li>
@@ -344,6 +345,8 @@
 
 </ul>
 
+:arrow_down: :arrow_down: :arrow_down:
+
 <em>Download nodejs here:</em> [node js!](https://nodejs.org/en/)<br />
 <em>Download postgres database here:</em> [postgres database!](https://www.postgresql.org/download/)<br />
 <em>Signup to cloudinary here:</em> [cloudinary database!](https://cloudinary.com/)<br />
@@ -370,7 +373,7 @@
 # \c matcha;
 ```
 
-<h3> Create tables: </h3>
+<h3> Create tables: </h3> 
 
 ```diff
 # CREATE TABLE users (id serial PRIMARY KEY, firstname VARCHAR (100), lastname VARCHAR (100), username VARCHAR (100), email UNIQUE TEXT NOT NULL, photourl TEXT, img1 TEXT, img2 TEXT, img3 TEXT, img4 TEXT, gender VARCHAR (20), sexpref VARCHAR (20), age SMALLINT, bio TEXT, city TEXT, tags TEXT [], longi FLOAT, lati FLOAT, popularity SMALLINT, logged_time TIMESTAMP, is_logged_in BOOLREAN, active BOOLEAN, secrettoken TEXT);
