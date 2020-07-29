@@ -71,7 +71,7 @@
     </li>
     
 ```diff
-# Postgres SQL database
+# map display
 ```
     
    <li>
@@ -139,44 +139,153 @@
 <hr />
 
 <h2>Back-End NPM Packages</h2>
-<p>
+
   <ul>
-    <li>
-      <strong>bcrypt-nodejs:</strong><em> password hashing. encryption and decryption</em>
+    
+   <li>
+      <em>
+        <strong>
+          bcrypt-nodejs:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>body-parser:</strong><em> extract the entire body portion of an incoming request stream and exposes it on req.body.</em>
+    
+```diff
+# password hashing, encryption and decryption
+```
+
+   <li>
+      <em>
+        <strong>
+          body-parser:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>cors:</strong><em> Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.</em>
+    
+```diff
+# extracts the entire body portion of an incoming request stream and exposes it on req.body.
+```
+
+   <li>
+      <em>
+        <strong>
+          cors:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>cloudinary:</strong><em> cloud database that store images</em>
+    
+```diff
+# Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.
+```
+
+  <li>
+      <em>
+        <strong>
+          cloudinary:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>dotenv:</strong><em> used with .gitignore to hide configurations and api keys from being shared on github</em>
+    
+```diff
+# cloud database that store images
+```
+
+  <li>
+      <em>
+        <strong>
+          dotenv:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>express:</strong><em> for creating a server and back-end routing</em>
+    
+```diff
+# used with .gitignore to hide configurations and api keys from being shared on github
+```
+
+  <li>
+      <em>
+        <strong>
+          express:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>express-form-data:</strong><em> sends form to the server</em>
+    
+```diff
+# for creating a server and back-end routing
+```
+
+  <li>
+      <em>
+        <strong>
+          express-form-data:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>knex:</strong><em> connects to database to store or fetch data </em>
+    
+```diff
+# sends form to the server
+```
+
+  <li>
+      <em>
+        <strong>
+          knex:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>nodemon:</strong><em> listens to file changes and restarts server during development if they are any changes made to the file</em>
+    
+```diff
+# connects to database to store or fetch data
+```
+
+  <li>
+      <em>
+        <strong>
+          nodemon:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>nodemailer:</strong><em> sends email to the user after registration or request for password reset</em>
+    
+```diff
+# listens to file changes and restarts server during development if they are any changes made to the file
+```
+
+  <li>
+      <em>
+        <strong>
+          nodemailer:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>pg:</strong><em> postgres database stores information of all users</em>
+    
+```diff
+# sends email to the user after registration or request for password reset
+```
+
+  <li>
+      <em>
+        <strong>
+          pg:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>randomstring:</strong><em> works as string shuffle mechanism e.g to generate tokens used during email verification process</em>
+    
+```diff
+# postgres database stores information of all users
+```
+
+<li>
+      <em>
+        <strong>
+          randomstring:
+        </strong>
+       </em>
     </li>
+    
+```diff
+# works as string shuffle mechanism e.g to generate tokens used during email verification process
+```
+
   </ul>
-</p>
+
 <hr />
