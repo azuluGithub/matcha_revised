@@ -334,13 +334,17 @@
         </strong>
        [node js!](https://nodejs.org/en/)
        </em>
-    [node js!](https://nodejs.org/en/)
     [click here!](https://matcha-e48de.firebaseapp.com/) to go to site
     </li>
+    
+   [node js!](https://nodejs.org/en/)
     
 ```diff
 # Download nodejs inorder to run npm commands inside matcha app
 ```
 </ul>
+
+
+[node js!](https://nodejs.org/en/)
 
 <hr />
