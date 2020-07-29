@@ -1,12 +1,4 @@
-<style type="text/css">
-  h1 {
-      color:red;
-  }
-
-  p {
-    color:blue;
-  }
-</style>
+<style>p{color:red;}</style>
 
 <h1> Matcha </h1>
 <p>
