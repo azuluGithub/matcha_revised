@@ -426,6 +426,8 @@
 - 3) gmail logins
 - (to use gmail to send : Enable less secure apps to access Gmail )
 ```
+
+<h4> :small_red_triangle_down: Save this file as .env :small_red_triangle_down: </h4>
     
 ```diff
 # CLOUD_NAME = '**************************'
