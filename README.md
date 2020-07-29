@@ -301,7 +301,7 @@
 <h3> Front-End: </h3>
 
 ```diff
-# React part of the app
+# React part of the app resposible for user interface
 ```
 
 - components
@@ -324,7 +324,7 @@
    - App.js
      
 ```diff
-# Redux part of the app
+# Redux part of the app which stores the global state of the application for easy accessibility of data from any component
 ```
 
  - store
