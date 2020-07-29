@@ -361,6 +361,8 @@
 # Enter info e.g username and password to connect to the Database
 ```
 
+<em>All commands could have been run with a script :bangbang:</em>
+
 <h3> Create database Matcha: </h3>
 
 ```diff
