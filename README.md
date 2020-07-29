@@ -346,11 +346,9 @@
 
 </ul>
 
-- Download nodejs here: [node js!](https://nodejs.org/en/)
-
-- Download postgres database here: [postgres database!](https://www.postgresql.org/download/)
-
-- Signup to cloudinary here: [cloudinary database!](https://cloudinary.com/)
+<em> Download nodejs here:</em> [node js!](https://nodejs.org/en/)<br />
+<em> Download postgres database here:</em> [postgres database!](https://www.postgresql.org/download/)
+<em>Signup to cloudinary here:</em> [cloudinary database!](https://cloudinary.com/)
 
 
 <hr />
