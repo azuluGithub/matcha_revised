@@ -392,7 +392,7 @@
 
 <h3> Clone Project: </h3>
 
-[matcha project!](https://github.com/azuluGithub/matcha_revised)
+[Go to matcha project!](https://github.com/azuluGithub/matcha_revised)
 
 <h3> STARTING PROJECT: </h3>
 
@@ -405,7 +405,7 @@
         <strong>
           .env 
         </strong>
-        file which should contain api keys:
+        file at root of the directory which should contain api keys:
        </em>
     </li>
     
@@ -419,11 +419,40 @@
 # PASSWORD = '**********************'
 # DATABASE = 'matcha'
 
-# GMAIL_USER = '**************@gmail.com'
+# GMAIL_USER = '***********@gmail.com'
 # GMAIL_PASS = '**************'
+```
+
+   <li>
+      <em>
+        Start server by running the following command:
+       </em>
+    </li>
+    
+```diff
+# npm i && npm start
+# (to run successfully your port must be 3000)
 ```
 </ul>
 
+<h4> Use another tab to Navigate to font-end folder: </h4>
+
+<ul>
+   <li>
+      <em>
+        Run the following command:
+       </em>
+    </li>
+    
+```diff
+# npm i && npm start
+# (to run successfully your port must be 3001)
+```
+</ul>
+
+<h4> HAPPY HACKING!!!!!!!! </h4>
+
+<hr />
 <hr />
 
 <h2>Pictures</h2>
