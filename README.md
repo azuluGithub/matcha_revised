@@ -1,3 +1,13 @@
+<style type="text/css">
+  h1 {
+      color:red;
+  }
+
+  p {
+    color:blue;
+  }
+</style>
+
 <h1> Matcha </h1>
 <p>
   <em>Is a</em> 
