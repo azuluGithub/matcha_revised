@@ -7,11 +7,10 @@
 ```
 <h1> Matcha </h1>
 
-<p>
-  <em>Is a</em> 
-    <strong> WeThinkCode_ </strong>
-  <em>project.</em>
-</p>
+```diff
+@@ Is a WeThinkCode_ project.@@
+```
+
 <hr />
 
 <h2> Description </h2>
