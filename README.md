@@ -318,7 +318,7 @@
 # Download postgres to be able to store all user info for matcha app
 ```
 
-<li>
+  <li>
       <em>
         <strong>
           Cloudinary database:
@@ -330,12 +330,24 @@
 # Enables you to store all app images
 ```
 
+  <li>
+      <em>
+        <strong>
+          Git:
+        </strong>
+       </em>
+    </li>
+    
+```diff
+# Git clone the matcha project
+```
+
 </ul>
 
-<em> Download nodejs here:</em> [node js!](https://nodejs.org/en/)<br />
-<em> Download postgres database here:</em> [postgres database!](https://www.postgresql.org/download/)<br />
+<em>Download nodejs here:</em> [node js!](https://nodejs.org/en/)<br />
+<em>Download postgres database here:</em> [postgres database!](https://www.postgresql.org/download/)<br />
 <em>Signup to cloudinary here:</em> [cloudinary database!](https://cloudinary.com/)
-
+<em>Download Git here:</em> [git!](https://git-scm.com/)
 
 <hr />
 
@@ -379,6 +391,8 @@
 <h2> Set Up Project </h2>
 
 <h3> Clone Project: </h3>
+
+[matcha project!](https://github.com/azuluGithub/matcha_revised)
 
 <hr />
 
