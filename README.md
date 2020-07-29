@@ -17,7 +17,7 @@
 
 <hr />
 
-<h2> Features </h2> :movie_camera: :camera: :floppy_disk: :video_camera: 
+<h2> Features :movie_camera: :camera: :floppy_disk: :video_camera:</h2>  
 
 ```diff
 - Registration and Signing-in
@@ -30,7 +30,7 @@
 ```
 <hr />
 
-<h2> Stack || Languages</h2> :speech_balloon: :thought_balloon:
+<h2> Stack || Languages :speech_balloon: :thought_balloon:</h2> 
 
 <h3> Front-End: </h3>
 
@@ -60,7 +60,7 @@
 
 <hr />
 
-<h2>Front-End NPM Packages</h2> :package: :package: :package: :package: :package: :package: :package: :package: <br />
+<h2>Front-End NPM Packages :package: :package: :package: :package: :package: :package: :package: :package:</h2>
 <em>for package versions: npm install package_name</em>
 
  <ul>
@@ -140,7 +140,7 @@
   
 <hr />
 
-<h2>Back-End NPM Packages</h2> :package: :package: :package: :package: :package: :package: :package: :package:
+<h2>Back-End NPM Packages :package: :package: :package: :package: :package: :package: :package: :package:</h2> 
 
   <ul>
    <li>
@@ -291,9 +291,9 @@
 
 <hr />
 
-<h2> RUNNING THE PROJECT </h2> :running: :running: :running: :runner: :runner:
+<h2> RUNNING THE PROJECT :running: :running: :running: :runner: :runner:</h2> 
 
-<h3> Requirements </h3> :warning:
+<h3> Requirements :warning:</h3> 
 
 <ul>
    <li>
