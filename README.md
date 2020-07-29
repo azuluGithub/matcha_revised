@@ -292,7 +292,23 @@
 
 <h2>Pictures</h2>
 
-**Dashboard**
-![dashboard image](/front_end/screenshots/dash_web.JPG)
+**Dashboard Desktop**
+![dashboardd image](/front_end/screenshots/dash_web.JPG)
+
+
+**Dashboard Mobile**
+![dashboardm image](/front_end/screenshots/dash_mob.JPG)
+
+
+**Profile**
+![profile image](/front_end/screenshots/prof_mob.JPG)
+
+
+**Chat**
+![chat image](/front_end/screenshots/chat_mob.JPG)
+
+
+**Other Users**
+![user image](/front_end/screenshots/user_mob.JPG)
 
 <hr />
