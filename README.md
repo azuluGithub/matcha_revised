@@ -5,10 +5,8 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+<h1> Matcha </h1>
 
- # ```diff
-- Matcha
-```
 <p>
   <em>Is a</em> 
     <strong> WeThinkCode_ </strong>
@@ -18,12 +16,12 @@
 
 <h2> Description </h2>
 <p>
-  <em>
-    This project is about creating a dating website.
-    The app allows two potential lovers to meet, from the registration to the final encounter.
-    A user is able to register, connect, fill his or her profile, search and look into the profile of other users, like them, chat with those that "liked" back.
-  </em>
-</p>
+ 
+ ```diff
++ This project is about creating a dating website.
+  The app allows two potential lovers to meet, from the registration to the final encounter.
+  A user is able to register, connect, fill his or her profile, search and look into the profile of other users, like them, chat with those that "liked" back.
+```
 <hr />
 
 <h2> Features </h2>
