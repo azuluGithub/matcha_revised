@@ -6,8 +6,8 @@
 @@ text in purple (and bold)@@
 ```
 
-  ```diff
-- <h1> Matcha </h1>
+ # ```diff
+- Matcha
 ```
 <p>
   <em>Is a</em> 
