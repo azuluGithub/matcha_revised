@@ -1,4 +1,4 @@
-<h1>:heart::heart::heart: MATCHA :heart::heart::heart:</h1>
+<h1>:heart: MATCHA :heart:</h1>
 
 ```diff
 # Is a WeThinkCode_ project.
@@ -60,7 +60,7 @@
 
 <hr />
 
-<h2>Front-End NPM Packages :package: :package: :package: :package: :package: :package: :package: :package:</h2>
+<h2>Front-End NPM Packages :package::package::package:</h2>
 <em>for package versions: npm install package_name</em>
 
  <ul>
@@ -140,7 +140,7 @@
   
 <hr />
 
-<h2>Back-End NPM Packages :package: :package: :package: :package: :package: :package: :package: :package:</h2> 
+<h2>Back-End NPM Packages :package:</h2> 
 
   <ul>
    <li>
