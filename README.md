@@ -19,8 +19,8 @@
  
  ```diff
 + This project is about creating a dating website.
-  The app allows two potential lovers to meet, from the registration to the final encounter.
-  A user is able to register, connect, fill his or her profile, search and look into the profile of other users, like them, chat with those that "liked" back.
++ The app allows two potential lovers to meet, from the registration to the final encounter.
++ A user is able to register, connect, fill his or her profile, search and look into the profile of other users, like them, chat with those that "liked" back.
 ```
 <hr />
 
