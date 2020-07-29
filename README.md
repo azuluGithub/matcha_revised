@@ -427,7 +427,7 @@
 - (to use gmail to send : Enable less secure apps to access Gmail )
 ```
 
-<h4> :arrow_down_small: Save this file as: .env :arrow_down_small: </h4>
+<h4> Save this file as .env :arrow_down_small::arrow_down_small::arrow_down_small: </h4>
     
 ```diff
 # CLOUD_NAME = '**************************'
