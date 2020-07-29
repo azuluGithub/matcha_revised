@@ -398,6 +398,20 @@
 
 <hr />
 
+<h2> Project Structure </h2>
+
+<h3> Front-End: </h3>
+
+- components
+        -test
+             -test2
+             -test3
+
+<h3> Back-End: </h3>
+
+
+<hr />
+
 <h2> Set Up Project </h2>
 
 <h3> Clone Project: </h3>
