@@ -292,7 +292,8 @@
 
 <h2>Pictures</h2>
 
-<h3> Desktop Dashboard </h3>
+<h4> Desktop Dashboard </h4>
+
 ![ddashboard image](/front_end/screenshots/dash_web.JPG)
 
 <hr />
@@ -313,6 +314,7 @@
 <hr />
 
 <h3> Other Users </h3>
+
 ![user image](/front_end/screenshots/user_mob.JPG)
 
 <hr />
