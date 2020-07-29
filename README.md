@@ -328,7 +328,6 @@
 ```
 
  - store
-   - First nested list item
    - actions
    - constants
    - reducers
