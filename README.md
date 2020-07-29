@@ -13,11 +13,11 @@
  + The app allows two potential lovers to meet, from the registration to the final encounter.
  + A user is able to register, connect, fill his or her profile, search and look into the profile of other users, like them, chat with those that "liked" back.
 ```
-:couple_with_heart:
+:couple_with_heart: :heart: :love_letter: :lips: :couple:
 
 <hr />
 
-<h2> Features </h2> :movie_camera: :camera:
+<h2> Features </h2> :movie_camera: :camera: :floppy_disk: :video_camera: 
 
 ```diff
 - Registration and Signing-in
@@ -30,7 +30,7 @@
 ```
 <hr />
 
-<h2> Stack / Languages</h2> :speech_balloon:
+<h2> Stack / Languages</h2> :speech_balloon: :thought_balloon:
 
 <h3> Front-End: </h3>
 
@@ -60,8 +60,8 @@
 
 <hr />
 
-<h2>Front-End NPM Packages</h2> :package:
-<em>for package versions: npm install package_name</em>
+<h2>Front-End NPM Packages</h2> :package: :package: :package: :package: :school_satchel: :school_satchel: :school_satchel:
+<h4><em>for package versions: npm install package_name</em></h4>
 
  <ul>
     <li>
@@ -140,7 +140,7 @@
   
 <hr />
 
-<h2>Back-End NPM Packages</h2> :package:
+<h2>Back-End NPM Packages</h2> :package: :package: :package: :package: :school_satchel: :school_satchel: :school_satchel:
 
   <ul>
    <li>
@@ -291,7 +291,7 @@
 
 <hr />
 
-<h2> RUNNING THE PROJECT </h2> :running:
+<h2> RUNNING THE PROJECT </h2> :running: :running: :running: :runner: :runner:
 
 <h3> Requirements </h3> :warning:
 
