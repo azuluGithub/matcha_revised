@@ -1,4 +1,4 @@
-<h1 style="![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)"> Matcha </h1>
+<h1> ```diff - Matcha ```</h1>
 <p>
   <em>Is a</em> 
     <strong> WeThinkCode_ </strong>
