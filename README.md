@@ -321,3 +321,24 @@
 ![user image](/front_end/screenshots/user_mob.JPG)
 
 <hr />
+
+<h1> RUNNING THE PROJECT </h1>
+
+<h1> Requirements </h1>
+
+<ul>
+   <li>
+      <em>
+        <strong>
+          Node js:
+        </strong>
+       [node js!](https://nodejs.org/en/)
+       </em>
+    </li>
+    
+```diff
+# Download nodejs inorder to run npm commands inside matcha app
+```
+</ul>
+
+<hr />
