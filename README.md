@@ -60,7 +60,7 @@
 
 <hr />
 
-<h2>Front-End NPM Packages</h2> :package: :package: :package: :package: :school_satchel: :school_satchel: :school_satchel:
+<h2>Front-End NPM Packages</h2> :package: :package: :package: :package: :package: :package: :package: :package:
 <h4><em>for package versions: npm install package_name</em></h4>
 
  <ul>
@@ -140,7 +140,7 @@
   
 <hr />
 
-<h2>Back-End NPM Packages</h2> :package: :package: :package: :package: :school_satchel: :school_satchel: :school_satchel:
+<h2>Back-End NPM Packages</h2> :package: :package: :package: :package: :package: :package: :package: :package:
 
   <ul>
    <li>
