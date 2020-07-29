@@ -419,8 +419,8 @@
 # PASSWORD = '**********************'
 # DATABASE = 'matcha'
 
-# GMAIL_USER = 'zuluarnold0@gmail.com'
-# GMAIL_PASS = '143_50F7w@r3'
+# GMAIL_USER = '**************@gmail.com'
+# GMAIL_PASS = '**************'
 ```
 </ul>
 
