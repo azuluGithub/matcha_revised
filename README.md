@@ -346,14 +346,12 @@
 
 </ul>
 
-```diff
 - Download nodejs here: [node js!](https://nodejs.org/en/)
 
 - Download postgres database here: [postgres database!](https://www.postgresql.org/download/)
 
 - Signup to cloudinary here: [cloudinary database!](https://cloudinary.com/)
 
-```
 
 <hr />
 
