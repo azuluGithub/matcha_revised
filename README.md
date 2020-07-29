@@ -1,14 +1,7 @@
-```diff
-- matcha
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 <h1> Matcha </h1>
 
 ```diff
-@@ Is a WeThinkCode_ project.@@
+# Is a WeThinkCode_ project.
 ```
 
 <hr />
@@ -78,7 +71,7 @@
     </li>
     
 ```diff
-@@ Postgres SQL database
+# Postgres SQL database
 ```
     
    <li>
@@ -90,7 +83,7 @@
     </li>
     
 ```diff
-@@ time conversion
+# time conversion
 ```
 
    <li>
@@ -102,7 +95,7 @@
     </li>
 
 ```diff
-@@ connecting redux to react app
+# connecting redux to react app
 ```
 
    <li>
@@ -114,7 +107,7 @@
     </li>
     
 ```diff
-@@ front-end routing e.g "/dashboad"
+# front-end routing e.g "/dashboad"
 ```
 
   <li>
@@ -126,7 +119,7 @@
     </li>
     
 ```diff
-@@ provides a scrollbar component
+# provides a scrollbar component
 ```
 
    <li>
@@ -138,7 +131,7 @@
     </li>
     
 ```diff
-@@ global state of an application
+# global state of an application
 ```
 
   </ul>
