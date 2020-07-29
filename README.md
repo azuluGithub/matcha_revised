@@ -402,7 +402,7 @@
 
 <h3> Clone Project: </h3>
 
-[Go to matcha project!](https://github.com/azuluGithub/matcha_revised)
+<em>To clone:</em>[Go to matcha project!](https://github.com/azuluGithub/matcha_revised)
 
 <h3> Starting Project: </h3>
 
@@ -495,5 +495,4 @@
 
 ![user image](/front_end/screenshots/user_mob.JPG)
 
-:heart: :heart: :heart::heart: :heart: :heart::heart: :heart: :heart::heart: :heart: :heart::heart: :heart: :heart::heart: :heart: :heart::heart: :heart: :heart::heart:
 <hr />
