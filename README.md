@@ -324,7 +324,7 @@
 
 <h1> RUNNING THE PROJECT </h1>
 
-<h1> Requirements </h1>
+<h2> Requirements </h2>
 
 <ul>
    <li>
@@ -332,19 +332,41 @@
         <strong>
           Node js:
         </strong>
-       [node js!](https://nodejs.org/en/)
        </em>
-    [click here!](https://matcha-e48de.firebaseapp.com/) to go to site
     </li>
     
-   [node js!](https://nodejs.org/en/)
+```diff
+# Download nodejs to be able to run npm commands inside matcha app
+```
+   <li>
+      <em>
+        <strong>
+          Postgres database:
+        </strong>
+       </em>
+    </li>
     
 ```diff
-# Download nodejs inorder to run npm commands inside matcha app
+# Download postgres to be able to store all user info for matcha app
 ```
+
+<li>
+      <em>
+        <strong>
+          Cloudinary database:
+        </strong>
+       </em>
+    </li>
+    
+```diff
+# Enables you to store all app images
+```
+
 </ul>
 
 
-[node js!](https://nodejs.org/en/)
+Download nodejs here: [node js!](https://nodejs.org/en/)
+Download postgres database here: [postgres database!](https://www.postgresql.org/download/)
+Signup to cloudinary here: [cloudinary database!](https://cloudinary.com/)
 
 <hr />
