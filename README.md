@@ -1,4 +1,4 @@
-<h1> Matcha </h1>
+<h1> Matcha </h1> :heart:
 
 ```diff
 # Is a WeThinkCode_ project.
