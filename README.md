@@ -304,24 +304,6 @@
 
 <hr />
 
-<h4> Profile </h4>
-
-![profile image](/front_end/screenshots/prof_mob.JPG)
-
-<hr />
-
-<h4> Chat </h4>
-
-![chat image](/front_end/screenshots/chat_mob.JPG)
-
-<hr />
-
-<h4> Other Users </h4>
-
-![user image](/front_end/screenshots/user_mob.JPG)
-
-<hr />
-
 <h1> RUNNING THE PROJECT </h1>
 
 <h2> Requirements </h2>
@@ -364,9 +346,31 @@
 
 </ul>
 
+```diff
+- Download nodejs here: [node js!](https://nodejs.org/en/)
 
-Download nodejs here: [node js!](https://nodejs.org/en/)
-Download postgres database here: [postgres database!](https://www.postgresql.org/download/)
-Signup to cloudinary here: [cloudinary database!](https://cloudinary.com/)
+- Download postgres database here: [postgres database!](https://www.postgresql.org/download/)
+
+- Signup to cloudinary here: [cloudinary database!](https://cloudinary.com/)
+
+```
+
+<hr />
+
+<h4> Profile </h4>
+
+![profile image](/front_end/screenshots/prof_mob.JPG)
+
+<hr />
+
+<h4> Chat </h4>
+
+![chat image](/front_end/screenshots/chat_mob.JPG)
+
+<hr />
+
+<h4> Other Users </h4>
+
+![user image](/front_end/screenshots/user_mob.JPG)
 
 <hr />
