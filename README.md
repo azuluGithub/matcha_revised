@@ -290,23 +290,9 @@
 
 <hr />
 
-<h2>Pictures</h2>
+<h2> RUNNING THE PROJECT </h2>
 
-<h4> Desktop Dashboard </h4>
-
-![ddashboard image](/front_end/screenshots/dash_web.JPG)
-
-<hr />
-
-<h4> Mobile Dashboard </h4>
-
-![mdashboard image](/front_end/screenshots/dash_mob.JPG)
-
-<hr />
-
-<h1> RUNNING THE PROJECT </h1>
-
-<h2> Requirements </h2>
+<h3> Requirements </h3>
 
 <ul>
    <li>
@@ -347,9 +333,23 @@
 </ul>
 
 <em> Download nodejs here:</em> [node js!](https://nodejs.org/en/)<br />
-<em> Download postgres database here:</em> [postgres database!](https://www.postgresql.org/download/)
+<em> Download postgres database here:</em> [postgres database!](https://www.postgresql.org/download/)<br />
 <em>Signup to cloudinary here:</em> [cloudinary database!](https://cloudinary.com/)
 
+
+<hr />
+
+<h2>Pictures</h2>
+
+<h4> Desktop Dashboard </h4>
+
+![ddashboard image](/front_end/screenshots/dash_web.JPG)
+
+<hr />
+
+<h4> Mobile Dashboard </h4>
+
+![mdashboard image](/front_end/screenshots/dash_mob.JPG)
 
 <hr />
 
