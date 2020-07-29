@@ -71,28 +71,77 @@
 
  <ul>
     <li>
-      <strong>leaflet && react-leaflet:</strong>
+      <em>
+        <strong>
+          leaflet && react-leaflet:
+        </strong>
+       </em>
     </li>
     
 ```diff
-# Postgres SQL database
+! Postgres SQL database
 ```
     
-    <li>
-      <strong>moment:</strong><em> time conversion</em>
+   <li>
+      <em>
+        <strong>
+          moment:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>react-redux:</strong><em> connecting redux to react app</em>
+    
+```diff
+! time conversion
+```
+
+   <li>
+      <em>
+        <strong>
+          react-redux:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>react-router-dom:</strong><em> front-end routing e.g "/dashboad"</em>
+
+```diff
+! connecting redux to react app
+```
+
+   <li>
+      <em>
+        <strong>
+          react-router-dom:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>react-scroll-to-bottom:</strong><em> provides a scrollbar component</em>
+    
+```diff
+! front-end routing e.g "/dashboad"
+```
+
+  <li>
+      <em>
+        <strong>
+          react-scroll-to-bottom:
+        </strong>
+       </em>
     </li>
-    <li>
-      <strong>redux:</strong><em> global state of an application</em>
+    
+```diff
+! provides a scrollbar component
+```
+
+   <li>
+      <em>
+        <strong>
+          redux:
+        </strong>
+       </em>
     </li>
+    
+```diff
+! global state of an application
+```
+
   </ul>
   
 <hr />
