@@ -289,3 +289,10 @@
   </ul>
 
 <hr />
+
+<h2>Pictures</h2>
+
+**Dashboard**
+![dashboard image](/front_end/screenshots/dash_web.JPG)
+
+<hr />
