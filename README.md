@@ -361,11 +361,11 @@
 <h3> Create tables: </h3>
 
 ```diff
-# CREATE TABLE users (id, firstname, lastname, username, email, photourl, img1, img2, img3, img4, gender, sexpref, age, bio, city, tags, longi, lati, popularity, logged_time, is_logged_in, active, secrettoken);
-- CREATE TABLE views (id, viewer, viewed);
-+ CREATE TABLE likes (id, liker, liked, liketype);
-- CREATE TABLE matches (id, user1, user2);
-# CREATE TABLE chats (id, sender, reciever, message, _time);
+# CREATE TABLE users (id serial PRIMARY KEY, firstname VARCHAR (100), lastname VARCHAR (100), username VARCHAR (100), email UNIQUE TEXT NOT NULL, photourl TEXT, img1 TEXT, img2 TEXT, img3 TEXT, img4 TEXT, gender VARCHAR (20), sexpref VARCHAR (20), age SMALLINT, bio TEXT, city TEXT, tags TEXT [], longi FLOAT, lati FLOAT, popularity SMALLINT, logged_time TIMESTAMP, is_logged_in BOOLREAN, active BOOLEAN, secrettoken TEXT);
++ CREATE TABLE views (id serial PRIMARY KEY, viewer TEXT, viewed TEXT);
+- CREATE TABLE likes (id serial PRIMARY KEY, liker TEXT, liked TEXT, liketype SMALLINT);
++ CREATE TABLE matches (id serial PRIMARY KEY, user1 TEXT, user2 TEXT);
+# CREATE TABLE chats (id serial PRIMARY KEY, sender TEXT, reciever TEXT, message TEXT, _time TIMESTAMP);
 ```
 
 <h3> Exit: </h3>
@@ -373,6 +373,12 @@
 ```diff
 # \q;
 ```
+
+<hr />
+
+<h2> Set Up Project </h2>
+
+<h3> Clone Project: </h3>
 
 <hr />
 
