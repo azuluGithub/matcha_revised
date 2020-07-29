@@ -400,7 +400,8 @@
 
 <h2> Set Up Project </h2>
 
-<h3> Clone Project: </h3><br />
+<h3> Clone Project: </h3>
+
 [Go to matcha project!](https://github.com/azuluGithub/matcha_revised)
 
 <h3> Starting Project: </h3>
