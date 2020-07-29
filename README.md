@@ -15,16 +15,23 @@
 <hr />
 
 <h2> Description </h2>
-<p>
- 
  ```diff
-+ This project is about creating a dating website.
-+ The app allows two potential lovers to meet, from the registration to the final encounter.
-+ A user is able to register, connect, fill his or her profile, search and look into the profile of other users, like them, chat with those that "liked" back.
+  + This project is about creating a dating website.
+  + The app allows two potential lovers to meet, from the registration to the final encounter.
+  + A user is able to register, connect, fill his or her profile, search and look into the profile of other users, like them, chat with those that "liked" back.
 ```
 <hr />
 
 <h2> Features </h2>
+```diff
+  - Registration and Signing-in
+  - User profile
+  - Browsing
+  - Research
+  - Profile of other users
+  - Chat
+  - Notifications
+```
 <p>
   <ul>
     <li>
