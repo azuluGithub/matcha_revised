@@ -15,6 +15,7 @@
 <hr />
 
 <h2> Description </h2>
+
  ```diff
  + This project is about creating a dating website.
  + The app allows two potential lovers to meet, from the registration to the final encounter.
@@ -23,6 +24,7 @@
 <hr />
 
 <h2> Features </h2>
+
 ```diff
  - Registration and Signing-in
  - User profile
