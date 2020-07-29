@@ -26,6 +26,17 @@
 <h2> Features </h2>
 
 ```diff
+- matcha
+- matcha
+- matcha
+- matcha
+- matcha
+- matcha
+- matcha
+- matcha
+```
+
+```diff
  + Registration and Signing-in
  # User profile
  - Browsing
