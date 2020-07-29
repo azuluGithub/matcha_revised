@@ -391,6 +391,7 @@
 <h2> Set Up Project </h2>
 
 <h3> Clone Project: </h3>
+
 [matcha project!](https://github.com/azuluGithub/matcha_revised)
 
 <h3> STARTING PROJECT: </h3>
@@ -402,20 +403,20 @@
       <em>
         Create a 
         <strong>
-          .env file 
+          .env 
         </strong>
-        which should contain api keys:
+        file which should contain api keys:
        </em>
     </li>
     
 ```diff
-# CLOUD_NAME = 'dsaj6ikxp'
-# API_KEY = '187321199323491'
-# API_SECRET = '2ZJFbRb5D1-bCgoDLvLUj_pRgmo'
+# CLOUD_NAME = '**************************'
+# API_KEY = '******************'
+# API_SECRET = '***********************'
 
 # HOST = '127.0.0.1'
-# USER = 'postgres'
-# PASSWORD = 'rootadmin'
+# USER = '***********************'
+# PASSWORD = '**********************'
 # DATABASE = 'matcha'
 
 # GMAIL_USER = 'zuluarnold0@gmail.com'
