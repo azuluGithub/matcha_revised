@@ -5,7 +5,10 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
-<h1> Matcha</h1>
+
+  ```diff
+- <h1> Matcha </h1>
+```
 <p>
   <em>Is a</em> 
     <strong> WeThinkCode_ </strong>
