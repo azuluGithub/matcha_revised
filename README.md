@@ -30,7 +30,7 @@
 ```
 <hr />
 
-<h2> Stack / Languages</h2> :speech_balloon: :thought_balloon:
+<h2> Stack || Languages</h2> :speech_balloon: :thought_balloon:
 
 <h3> Front-End: </h3>
 
