@@ -1,6 +1,4 @@
-<style>p{color:red;}</style>
-
-<h1> Matcha </h1>
+<h1 style="color:red"> Matcha </h1>
 <p>
   <em>Is a</em> 
     <strong> WeThinkCode_ </strong>
