@@ -450,7 +450,7 @@
 ```
 </ul>
 
-<h4> HAPPY HACKING!!!!!!!! </h4>
+<h4> :grinning: :grinning: :grinning: :grinning: :grinning: HAPPY HACKING!!!!!!!! :grinning: :grinning: :grinning: :grinning: :grinning: </h4>
 
 <hr />
 <hr />
