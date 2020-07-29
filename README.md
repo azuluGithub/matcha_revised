@@ -34,80 +34,36 @@
 - Chat
 - Notifications
 ```
-<p>
-  <ul>
-    <li>
-      <em>Registration and Signing-in</em>
-    </li>
-    <li>
-      <em>User profile</em>
-    </li>
-    <li>
-      <em>Browsing</em>
-    </li>
-    <li>
-      <em>Research</em>
-    </li>
-    <li>
-      <em>Profile of other users</em>
-    </li>
-    <li>
-      <em>Chat</em>
-    </li>
-    <li>
-      <em>Notifications</em>
-    </li>
-  </ul>
-</p>
 <hr />
 
 <h2> Stack / Languages</h2>
-<p>
-  <h3> Front-End: </h3>
-  <ul>
-    <li>
-      <em>JavaScript (ES6+)</em>
-    </li>
-    <li>
-      <em>React JS</em>
-    </li>
-    <li>
-      <em>Redux</em>
-    </li>
-    <li>
-      <em>HTML</em>
-    </li>
-    <li>
-      <em>CSS</em>
-    </li>
-    <li>
-      <em>Bootstrap</em>
-    </li>
-  </ul>
+
+<h3> Front-End: </h3>
+
+```diff
+# JavaScript (ES6+)
+# React JS
+# Redux
+# HTML
+# >CSS
+# Bootstrap
+```
+
+<h3> Server: </h3>
+
+```diff
+# Node JS
+# Express JS
+```
   
-  <h3> Server: </h3>
-  <ul>
-    <li>
-      <em>Node JS</em>
-    </li>
-    <li>
-      <em>Express JS</em>
-    </li>
-  </ul>
-  
-  <h3> Back-End: </h3>
-  <ul>
-    <li>
-      <em>Postgres SQL database</em>
-    </li>
-    <li>
-      <em>Knex JS</em>
-    </li>
-    <li>
-      <em>Cloudinary database</em>
-    </li>
-  </ul>
-</p>
+<h3> Back-End: </h3>
+
+```diff
+# Postgres SQL database
+# Knex JS
+# Cloudinary database
+```
+
 <hr />
 
 <h2>Front-End NPM Packages</h2>
