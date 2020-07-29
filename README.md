@@ -296,6 +296,51 @@
 
 <hr />
 
+<h2> Project Structure </h2>
+
+<h3> Front-End: </h3>
+
+```diff
+# React part of the app
+```
+
+- components
+   - auth
+   - bio
+   - chat
+   - dashboard
+   - extendedprofile
+   - footer
+   - map
+   - nav
+   - notifications
+   - port
+   - profile
+   - scrollbar
+   - update
+   - upload
+   - user
+   - App.css
+   - App.js
+     
+```diff
+# Redux part of the app
+```
+
+ - store
+   - First nested list item
+   - actions
+   - constants
+   - reducers
+   
+- index.js
+
+<h3> Back-End: </h3>
+
+
+<hr />
+
+
 <h2> RUNNING THE PROJECT :running: :running: :running: :runner: :runner:</h2> 
 
 <h3> Requirements :warning:</h3> 
@@ -395,30 +440,6 @@
 ```diff
 # \q;
 ```
-
-<hr />
-
-<h2> Project Structure </h2>
-
-<h3> Front-End: </h3>
-
-- First list item
-   - First nested list item
-     - Second nested list item
-    - First nested list item
-      - Second nested list item
-    - First nested list item
-      - Second nested list item
-    - First nested list item
-      - Second nested list item
-     
- - First list item
-   - First nested list item
-   
-- First list item
-
-<h3> Back-End: </h3>
-
 
 <hr />
 
