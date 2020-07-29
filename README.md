@@ -60,8 +60,8 @@
 
 <hr />
 
-<h2>Front-End NPM Packages</h2> :package: :package: :package: :package: :package: :package: :package: :package:
-<h4><em>for package versions: npm install package_name</em></h4>
+<h2>Front-End NPM Packages</h2> :package: :package: :package: :package: :package: :package: :package: :package: <br />
+<em>for package versions: npm install package_name</em>
 
  <ul>
     <li>
@@ -397,7 +397,7 @@
 
 [Go to matcha project!](https://github.com/azuluGithub/matcha_revised)
 
-<h3> STARTING PROJECT: </h3>
+<h3> Starting Project: </h3>
 
 <h4> Navigate to back-end folder: </h4>
 
