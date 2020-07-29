@@ -353,11 +353,13 @@
 ```
 
 <h3> Connect to Matcha: </h3>
+
 ```diff
 # \c matcha;
 ```
 
 <h3> Create tables: </h3>
+
 ```diff
 # CREATE TABLE users (id, firstname, lastname, username, email, photourl, img1, img2, img3, img4, gender, sexpref, age, bio, city, tags, longi, lati, popularity, logged_time, is_logged_in, active, secrettoken);
 - CREATE TABLE views (id, viewer, viewed);
@@ -367,6 +369,7 @@
 ```
 
 <h3> Exit: </h3>
+
 ```diff
 # \q;
 ```
