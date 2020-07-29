@@ -339,6 +339,40 @@
 
 <hr />
 
+<h2> Set Up Postgres </h2>
+
+```diff
++ Open the SQL Shell
+# Enter info e.g username and password to connect to the Database
+```
+
+<h3> Create database Matcha: </h3>
+
+```diff
+# CREATE DATABASE matcha;
+```
+
+<h3> Connect to Matcha: </h3>
+```diff
+# \c matcha;
+```
+
+<h3> Create tables: </h3>
+```diff
+# CREATE TABLE users (id, firstname, lastname, username, email, photourl, img1, img2, img3, img4, gender, sexpref, age, bio, city, tags, longi, lati, popularity, logged_time, is_logged_in, active, secrettoken);
+- CREATE TABLE views (id, viewer, viewed);
++ CREATE TABLE likes (id, liker, liked, liketype);
+- CREATE TABLE matches (id, user1, user2);
+# CREATE TABLE chats (id, sender, reciever, message, _time);
+```
+
+<h3> Exit: </h3>
+```diff
+# \q;
+```
+
+<hr />
+
 <h2>Pictures</h2>
 
 <h4> Desktop Dashboard </h4>
